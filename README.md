@@ -1,16 +1,38 @@
-## Hi there 👋
+👩‍💻 Hey, I’m Deb!
 
-<!--
-**debora-adriano/debora-adriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Data & Integrations | Software Quality
 
-Here are some ideas to get you started:
+🎓 Tech background with a degree in Systems Analysis and Development + Postgraduate in Software Quality
+💡 Passionate about building scalable solutions, clean code and continuous improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About me
+
+I have 9+ years in tech, starting from technical support and data analysis to becoming a Backend Developer focused on integrations and data processing.
+
+For the past 5+ years, I’ve been working with webMethods (IBM), building solutions for:
+
+Data ingestion & transformation
+System integrations
+Scalable and reliable data flows
+
+Always focused on quality, performance and best practices.
+
+🛠️ Tech Stack
+
+💻 Back-end: Java | webMethods
+🌐 Front-end: HTML | CSS | JavaScript
+🗄️ Database: SQL
+⚙️ Other: APIs | Integrations | Data Processing
+
+✨ What drives me
+Software Quality 🧪
+Clean Code & Best Practices 🧼
+Continuous Learning 📚
+Real impact through technology 🚀
+🌍 Let’s connect
+🇧🇷 Portuguese: Native
+🇺🇸 English: Advanced (C2)
+
+💙 Building, learning and evolving. One line of code at a time.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debora-adriano&show_icons=true)
