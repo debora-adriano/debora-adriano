@@ -35,4 +35,4 @@ Real impact through technology 🚀
 
 💙 Building, learning and evolving. One line of code at a time.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debora-adriano&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debora-adriano&show_icons=true&theme=default)
