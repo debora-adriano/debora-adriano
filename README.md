@@ -14,6 +14,7 @@ For the past 5+ years, I’ve been working with webMethods (IBM), building solut
 - Data ingestion & transformation
 - System integrations
 - Scalable and reliable data flows
+
 Always focused on quality, performance and best practices.
 _____
 🛠️ Tech Stack
